@@ -1,0 +1,42 @@
+t7(Type::URI, "<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>"),
+
+t8(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#GraduateStudent>"),
+					t9(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#takesCourse>"),
+					t10(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#University>"),
+					t11(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#Department>"),
+					t12(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#memberOf>"),
+					t13(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#subOrganizationOf>"),
+					t14(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#undergraduateDegreeFrom>"),
+					t15(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#Publication>"),
+					t16(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#publicationAuthor>"),
+
+					t17(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#FullProfessor>"),
+					t17_1(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#AssociateProfessor>"),
+					t17_2(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#AssistantProfessor>"),
+
+					t18(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#worksFor>"),
+					t19(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#name>"),
+					t20(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#telephone>"),
+
+					t23(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#Course>"),
+					t24(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#takesCourse>"),
+					t25(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#emailAddress>"),
+
+					t26_1(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#Lecturer>"),
+
+					t27(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#advisor>"),
+					t28(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#teacherOf>"),
+					t29(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#ResearchGroup>"),
+
+					t30(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#headOf>"),
+
+					t31_1(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#mastersDegreeFrom>"),
+					t31_2(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#doctoralDegreeFrom>"),
+
+					t32(Type::URI, "<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#UndergraduateStudent>"),
+
+					t33(Type::URI, "<http://www.Department0.University0.edu/GraduateCourse0>"),
+					t34(Type::URI, "<http://www.Department0.University0.edu/AssistantProfessor0>"),
+					t35(Type::URI, "<http://www.Department0.University0.edu>"),
+					t36(Type::URI, "<http://www.Department0.University0.edu/AssociateProfessor0>"),
+					t37(Type::URI, "<http://www.University0.edu>");
